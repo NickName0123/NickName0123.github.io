@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://NickName0123.github.io
+title: NickName0123
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
